@@ -1,0 +1,14 @@
+{
+  "name": "101476000_COMP3123-exec05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
