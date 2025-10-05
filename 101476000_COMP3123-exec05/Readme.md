@@ -66,7 +66,7 @@ The `/login` route was modified to read from `user.json` and verify the username
 
 Tested successfully in Postman using:
 ```json
-{ "username": "bret", "password": "bret@123" }
+{ "username": "carlos", "password": "carlos@123" }
 ```
 
 ---
